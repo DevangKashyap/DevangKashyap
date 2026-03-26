@@ -84,13 +84,7 @@ const devang = {
 
 ---
 
-## 📊 GitHub Stats
-
-![Devang's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true\&theme=tokyonight)
-
----
-
-## 🌐 Connect With Me
+## Connect With Me
 
 🔗 LinkedIn: https://www.linkedin.com/in/devang-kashyap-data/
 📧 Email: [devangkashyap007@gmail.com](mailto:devangkashyap007@gmail.com)
