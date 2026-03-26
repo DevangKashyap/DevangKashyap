@@ -6,7 +6,7 @@ I am a B.Tech CSE student (2022–2026) passionate about Data Analytics, Busines
 
 ---
 
-## 🔧 Skills & Tools
+## Skills & Tools
 
 * SQL
 * Python (Pandas, NumPy, Matplotlib)
@@ -17,7 +17,7 @@ I am a B.Tech CSE student (2022–2026) passionate about Data Analytics, Busines
 
 ---
 
-## 📊 What I Do
+## What I Do
 
 * Data Cleaning & Preprocessing
 * Exploratory Data Analysis (EDA)
@@ -26,7 +26,7 @@ I am a B.Tech CSE student (2022–2026) passionate about Data Analytics, Busines
 
 ---
 
-## 📌 Featured Projects
+## Featured Projects
 
 ### 🔹 Sales Performance Dashboard (Power BI)
 
@@ -42,11 +42,11 @@ Visualized housing price trends using geo-mapping and filters to identify region
 
 ---
 
-## 📫 Connect With Me
+## Connect With Me
 
-* LinkedIn: (add your link)
+* LinkedIn: https://www.linkedin.com/in/devang-kashyap-data/
 * Email: [devangkashyap007@gmail.com](mailto:devangkashyap007@gmail.com)
 
 ---
 
-⭐ Always learning, building, and improving in Data Analytics.
+Always learning, building, and improving in Data Analytics.
