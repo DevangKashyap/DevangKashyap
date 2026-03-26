@@ -1,28 +1,65 @@
-## **Hi, I'm Devang Kashyap**
+# 👋 Hi, I'm Devang Kashyap
 
-Aspiring Data Analyst | Turning Data into Insights
-
-I am a B.Tech CSE student (2022–2026) passionate about Data Analytics, Business Intelligence, and solving real-world problems using data. I enjoy working with datasets, building dashboards, and extracting meaningful insights that support decision-making.
+Data Analyst | Machine Learning Enthusiast
 
 ---
 
-## Skills & Tools
+## About Me
 
-* SQL
-* Python (Pandas, NumPy, Matplotlib)
-* Power BI
-* Tableau
-* Google Sheets
-* Machine Learning 
+🎓 B.Tech CSE Student (2022–2026)
+📊 Passionate about Data Analytics, Machine Learning & Business Intelligence
+💡 I turn raw data into insights, predictions, and real-world solutions
+
+---
+
+## Tech Arsenal
+
+```javascript
+const devang = {
+  role: "Data Analyst / ML Enthusiast",
+  
+  languages: ["Python", "SQL"],
+  
+  dataTools: ["Pandas", "NumPy", "Matplotlib"],
+  
+  visualization: ["Power BI", "Tableau", "Google Sheets"],
+  
+  machineLearning: [
+    "Linear Regression",
+    "Logistic Regression",
+    "Decision Trees",
+    "Random Forest",
+    "KNN",
+    "Clustering"
+  ],
+  
+  workflow: [
+    "Data Cleaning",
+    "EDA",
+    "Feature Engineering",
+    "Model Building",
+    "Evaluation"
+  ],
+  
+  currentlyLearning: [
+    "Advanced Machine Learning",
+    "Model Optimization",
+    "Deep Learning Basics"
+  ],
+  
+  goal: "To become a Data Scientist & build scalable data-driven products"
+};
+```
 
 ---
 
 ## What I Do
 
-* Data Cleaning & Preprocessing
-* Exploratory Data Analysis (EDA)
-* Dashboard Development
-* KPI Tracking & Business Insights
+✔️ Data Cleaning & Preprocessing
+✔️ Exploratory Data Analysis (EDA)
+✔️ Dashboard Development (Power BI / Tableau)
+✔️ Machine Learning Model Building
+✔️ Business Insights & KPI Tracking
 
 ---
 
@@ -30,23 +67,34 @@ I am a B.Tech CSE student (2022–2026) passionate about Data Analytics, Busines
 
 ### 🔹 Sales Performance Dashboard (Power BI)
 
-Analyzed sales data to track revenue, profit trends, and regional performance using interactive dashboards.
+📌 Interactive dashboard for revenue, profit trends & regional insights
 
 ### 🔹 AI News Aggregation System
 
-Built an automated system using APIs to fetch, clean, and analyze real-time news data for business insights.
+📌 Real-time data pipeline using APIs + analysis for business insights
 
 ### 🔹 Housing Price Analysis (Tableau)
 
-Visualized housing price trends using geo-mapping and filters to identify regional patterns.
+📌 Geo-based visualization to identify pricing trends
+
+### 🔹 Machine Learning Prediction Project
+
+📌 Built ML models (Regression + Classification) for predictive analysis
+📌 Applied feature engineering & model evaluation techniques
 
 ---
 
-## Connect With Me
+## 📊 GitHub Stats
 
-* LinkedIn: https://www.linkedin.com/in/devang-kashyap-data/
-* Email: [devangkashyap007@gmail.com](mailto:devangkashyap007@gmail.com)
+![Devang's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true\&theme=tokyonight)
 
 ---
 
-Always learning, building, and improving in Data Analytics.
+## 🌐 Connect With Me
+
+🔗 LinkedIn: https://www.linkedin.com/in/devang-kashyap-data/
+📧 Email: [devangkashyap007@gmail.com](mailto:devangkashyap007@gmail.com)
+
+---
+
+Always learning. Always building. Always improving.
