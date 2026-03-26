@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Devang Kashyap
+# Hi, I'm Devang Kashyap
 
 Data Analyst | Machine Learning Enthusiast
 
