@@ -1,4 +1,4 @@
-**Hi, I'm Devang Kashyap**
+## **Hi, I'm Devang Kashyap**
 
 Aspiring Data Analyst | Turning Data into Insights
 
@@ -13,7 +13,7 @@ I am a B.Tech CSE student (2022–2026) passionate about Data Analytics, Busines
 * Power BI
 * Tableau
 * Google Sheets
-* Machine Learning (Basics)
+* Machine Learning 
 
 ---
 
