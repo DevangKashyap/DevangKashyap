@@ -1,16 +1,52 @@
-## Hi there 👋
+**Hi, I'm Devang Kashyap**
 
-<!--
-**DevangKashyap/DevangKashyap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring Data Analyst | Turning Data into Insights
 
-Here are some ideas to get you started:
+I am a B.Tech CSE student (2022–2026) passionate about Data Analytics, Business Intelligence, and solving real-world problems using data. I enjoy working with datasets, building dashboards, and extracting meaningful insights that support decision-making.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔧 Skills & Tools
+
+* SQL
+* Python (Pandas, NumPy, Matplotlib)
+* Power BI
+* Tableau
+* Google Sheets
+* Machine Learning (Basics)
+
+---
+
+## 📊 What I Do
+
+* Data Cleaning & Preprocessing
+* Exploratory Data Analysis (EDA)
+* Dashboard Development
+* KPI Tracking & Business Insights
+
+---
+
+## 📌 Featured Projects
+
+### 🔹 Sales Performance Dashboard (Power BI)
+
+Analyzed sales data to track revenue, profit trends, and regional performance using interactive dashboards.
+
+### 🔹 AI News Aggregation System
+
+Built an automated system using APIs to fetch, clean, and analyze real-time news data for business insights.
+
+### 🔹 Housing Price Analysis (Tableau)
+
+Visualized housing price trends using geo-mapping and filters to identify regional patterns.
+
+---
+
+## 📫 Connect With Me
+
+* LinkedIn: (add your link)
+* Email: [devangkashyap007@gmail.com](mailto:devangkashyap007@gmail.com)
+
+---
+
+⭐ Always learning, building, and improving in Data Analytics.
